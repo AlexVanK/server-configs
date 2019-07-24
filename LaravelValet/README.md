@@ -1,6 +1,6 @@
 # Laravel Valet
 
-You can find the Laravel valet driver for Directus [here](/LaravelValer/DirectusValetDriver.php)
+You can find the Laravel valet driver for Directus [here](/LaravelValet/DirectusValetDriver.php)
 
 You can read more about Laravel Valet on [Laravel docs](https://laravel.com/docs/5.8/valet#local-drivers)
 
